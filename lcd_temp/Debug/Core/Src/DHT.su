@@ -1,0 +1,7 @@
+DHT.c:21:9:Reset_Pulse	8	static
+DHT.c:48:6:send	24	static
+DHT.c:74:10:read	16	static
+DHT.c:98:6:send_byte	24	static
+DHT.c:112:15:read_byte	16	static
+DHT.c:131:6:gpio_set_input	8	static
+DHT.c:140:6:gpio_set_output	8	static

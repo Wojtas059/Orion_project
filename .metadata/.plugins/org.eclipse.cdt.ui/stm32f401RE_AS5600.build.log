@@ -1,0 +1,10 @@
+13:35:28 **** Incremental Build of configuration Debug for project stm32f401RE_AS5600 ****
+make -j8 all 
+arm-none-eabi-size   stm32f401RE_AS5600.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21544	     20	   1916	  23480	   5bb8	stm32f401RE_AS5600.elf
+Finished building: default.size.stdout
+ 
+
+13:35:28 Build Finished. 0 errors, 0 warnings. (took 290ms)
+

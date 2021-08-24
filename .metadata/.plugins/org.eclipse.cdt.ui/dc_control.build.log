@@ -1,0 +1,10 @@
+17:50:20 **** Incremental Build of configuration Debug for project dc_control ****
+make -j8 all 
+arm-none-eabi-size   dc_control.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9636	     20	   1636	  11292	   2c1c	dc_control.elf
+Finished building: default.size.stdout
+ 
+
+17:50:20 Build Finished. 0 errors, 0 warnings. (took 230ms)
+

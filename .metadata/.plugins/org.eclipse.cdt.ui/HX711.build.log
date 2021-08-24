@@ -1,0 +1,8 @@
+13:42:18 **** Incremental Build of configuration Debug for project HX711 ****
+make -j8 all 
+Error: Cannot find the specified linker script. Check the linker settings in the build configuration.
+make: *** [makefile:86: fail-specified-linker-script-missing] Error 2
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+13:42:18 Build Failed. 2 errors, 0 warnings. (took 320ms)
+
